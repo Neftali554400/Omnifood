@@ -16,7 +16,7 @@ html {
 
 .row {
     max-width: 1140px;
-    margin: 0px auto;
+    margin: 0 auto;
 }
 
 section {
@@ -36,6 +36,7 @@ header {
     background-position: center;
     background-attachment: fixed;
     height: 100vh;
+    position: relative;
 }
 
 .hero-text-box {
@@ -263,10 +264,12 @@ h3 {
     top: 0;
     left: 0;
     width: 100%;
-    background-color:  #fff;
+    background-color: #fff;
     box-shadow: 0 1px 2px #555;
     z-index: 9999;
 }
+
+
 
 .sticky-header .main-nav { margin-top: 15px; }
 

@@ -120,17 +120,7 @@
         
     }
 
-    .sticky-header .main-nav { margin-top: 22px; }
-
-    .sticky-header .main-nav li a:link,
-    .sticky-header .main-nav li a:visited {
-        padding: 5px 0;
-        color:  #b54733;
-    }
-
-    .sticky-header .mobile-nav-icon ion-icon { color: rgb(14, 13, 13); }
    
-
 
     .get-started,
     .get-started:active {
