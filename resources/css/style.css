@@ -47,13 +47,11 @@ header {
     transform: translate(-50%, -50%);
 }
 
-.hero-text-box span {
-    color: #b54733;
-}
 
 .hero-text-box h1 {
-    margin-bottom: 55px;
+    margin-bottom: 50px;
 }
+
 
 h1,
 h2,
@@ -249,7 +247,7 @@ span li:hover{
 
 .get-started,
 .get-started:active {
-    border: 1px solid  #000000;
+    border: 1px solid  #b54733;
     padding: 6px;
     border-radius: 3px;
     font-weight: 500;
@@ -259,7 +257,6 @@ span li:hover{
 
 .get-started:hover {
     border-radius: 20px 0 20px 0;
-    color: #fff;
 }
 
 /* STICKY HEADER STYLE */
